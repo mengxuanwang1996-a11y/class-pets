@@ -1,0 +1,9 @@
+{
+	"appId": "com.classpets.app",
+	"appName": "Class Pets",
+	"webDir": "dist",
+	"packageClassList": [
+		"FilesystemPlugin",
+		"PushNotificationsPlugin"
+	]
+}
